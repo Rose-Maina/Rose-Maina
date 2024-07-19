@@ -1,6 +1,5 @@
 - 👋 Hi, I am Rose Maina
-- 👀 I’m interested in Javascript, React, and Ruby on Rails
-- 🌱 I’m currently learning Javascript, React and Ruby on Rails
+- 👀 I’m interested and continually learning HTML5, CSS3, Bootstrap, Javascript, React, Ruby, Ruby on Rails, SQLite, and PostgreSQL.
 - 💞️ I’m looking to collaborate on projects related to these programming languages.
 - 📫 You can reach me through the email:rosewairimu27@gmail.com
 
