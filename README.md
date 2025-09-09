@@ -5,6 +5,7 @@ I’m not a full-time developer, I just like to explore code when inspiration st
 GitHub is my digital notebook for experiments, practice projects, and “what if?” ideas.  
 
 🔭 I occasionally work on:
+  
   Small utilities that make life easier  
   Following along with tutorials and courses  
   Testing out new programming languages  
